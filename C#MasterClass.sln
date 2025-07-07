@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DescribeDay", "DescribeDay\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateSumOfNumbersBetweenEx", "CalculateSumOfNumbersBetweenEx\CalculateSumOfNumbersBetweenEx.csproj", "{3625BD32-0A24-4EB7-A259-2337346A588A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatCharacterTillTargetLengeth", "RepeatCharacterTillTargetLengeth\RepeatCharacterTillTargetLengeth.csproj", "{01684D76-97A8-420A-9DE8-A2F355072187}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3625BD32-0A24-4EB7-A259-2337346A588A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3625BD32-0A24-4EB7-A259-2337346A588A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3625BD32-0A24-4EB7-A259-2337346A588A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01684D76-97A8-420A-9DE8-A2F355072187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01684D76-97A8-420A-9DE8-A2F355072187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01684D76-97A8-420A-9DE8-A2F355072187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01684D76-97A8-420A-9DE8-A2F355072187}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
