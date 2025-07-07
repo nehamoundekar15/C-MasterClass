@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList", "ToDoList\ToDoLi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertPointsToGrade", "ConvertPointsToGrade\ConvertPointsToGrade.csproj", "{59FFB8E3-4FA8-4082-95B6-169FDA68E6C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DescribeDay", "DescribeDay\DescribeDay.csproj", "{1F1E08EA-8D3A-44BF-B87F-D04EEA8C66E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{59FFB8E3-4FA8-4082-95B6-169FDA68E6C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59FFB8E3-4FA8-4082-95B6-169FDA68E6C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59FFB8E3-4FA8-4082-95B6-169FDA68E6C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F1E08EA-8D3A-44BF-B87F-D04EEA8C66E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F1E08EA-8D3A-44BF-B87F-D04EEA8C66E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F1E08EA-8D3A-44BF-B87F-D04EEA8C66E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F1E08EA-8D3A-44BF-B87F-D04EEA8C66E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
