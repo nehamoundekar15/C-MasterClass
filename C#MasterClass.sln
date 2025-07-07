@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertPointsToGrade", "Con
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DescribeDay", "DescribeDay\DescribeDay.csproj", "{1F1E08EA-8D3A-44BF-B87F-D04EEA8C66E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateSumOfNumbersBetweenEx", "CalculateSumOfNumbersBetweenEx\CalculateSumOfNumbersBetweenEx.csproj", "{3625BD32-0A24-4EB7-A259-2337346A588A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{1F1E08EA-8D3A-44BF-B87F-D04EEA8C66E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F1E08EA-8D3A-44BF-B87F-D04EEA8C66E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F1E08EA-8D3A-44BF-B87F-D04EEA8C66E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3625BD32-0A24-4EB7-A259-2337346A588A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3625BD32-0A24-4EB7-A259-2337346A588A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3625BD32-0A24-4EB7-A259-2337346A588A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3625BD32-0A24-4EB7-A259-2337346A588A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
