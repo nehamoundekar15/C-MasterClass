@@ -23,10 +23,18 @@
 
 
             //switch expression - more concise and more readable format 
+            //return dayNumber switch
+            //{
+            //    1 or 2 or 3 or 4 or 5 => "Working day",
+            //    6 or 7 => "Weekend", 
+            //    _ => "Invalid day number"
+            //};
+
+            //patern matching
             return dayNumber switch
             {
-                1 or 2 or 3 or 4 or 5 => "Working day",
-                6 or 7 => "Weekend", 
+                <=5 => "Working day",
+                <=7 => "Weekend",
                 _ => "Invalid day number"
             };
 
