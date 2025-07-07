@@ -127,7 +127,6 @@
                 todos.RemoveAt(index); // remove element at specifc index
                 Console.WriteLine("TODO removed: " + todoToBeRemoved);
             }
-
             Console.ReadKey();
 
         }
