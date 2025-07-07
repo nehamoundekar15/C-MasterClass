@@ -1,7 +1,13 @@
-﻿namespace Calculator
+﻿using System.Security.Cryptography.X509Certificates;
+
+namespace Calculator
 {
     internal class Program
     {
+        public static string FormatDate(int year, int month, int day)
+        {
+            return ($"{year}/{month}/{day}"); //string interpolation
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("****************************************************************");
@@ -55,6 +61,8 @@
                 Console.WriteLine($"Result: {num1} {operation} {num2} = {result}" ); // string interpolation
                 //Console.WriteLine($"Only result is {result}");
             }
+
+           
             Console.ReadLine();
 
         }
