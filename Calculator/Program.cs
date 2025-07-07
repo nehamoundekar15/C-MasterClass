@@ -52,7 +52,8 @@
 
             void DisplayResult(string operation, int result)
             {
-                Console.WriteLine($"Result: {num1} {operation} {num2} = {result}" );
+                Console.WriteLine($"Result: {num1} {operation} {num2} = {result}" ); // string interpolation
+                //Console.WriteLine($"Only result is {result}");
             }
             Console.ReadLine();
 
