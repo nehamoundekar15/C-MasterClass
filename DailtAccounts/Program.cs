@@ -19,6 +19,8 @@
             //your code goes here
             public int EndOfDayState => InitialState + SumOfOperations;
 
+            //methods 
+            
             public string Report =>
             $"Day: {DateTime.Now.Day}," +
             $"month: {DateTime.Now.Month}," +
